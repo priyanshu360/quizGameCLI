@@ -26,3 +26,8 @@ The CSV file will be in a format like below, where the first column is a questio
 At the end of the quiz the program output the total number of questions correct and how many questions there were in total. Questions given invalid answers are considered incorrect.
 
 The default time limit is 30 seconds, but also customizable via a flag. Quiz stop as soon as the time limit has exceeded. 
+
+![Screenshot from 2021-06-05 16-39-28](https://user-images.githubusercontent.com/20378236/120889839-af750d80-c61c-11eb-9d22-c42f5267631d.png)
+![Screenshot from 2021-06-05 16-39-33](https://user-images.githubusercontent.com/20378236/120889841-b13ed100-c61c-11eb-9320-902c5dcdd7d1.png)
+![Screenshot from 2021-06-05 16-39-38](https://user-images.githubusercontent.com/20378236/120889842-b1d76780-c61c-11eb-8348-1fe28ac6083a.png)
+
